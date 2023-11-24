@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Nike",
+            "price": 1000000
+        },
+        {
+            "id": 2,
+            "name": "Balenciaga",
+            "price": 342312
+        },
+        {
+            "id": 3,
+            "name": "MLB",
+            "price": 875432
+        },
+        {
+            "id": 4,
+            "name": "Jordan",
+            "price": 834185
+        }
+    ]
+}
